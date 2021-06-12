@@ -23,6 +23,6 @@ I'm planning on designing a PCB for it, but first I have to learn how to use KIC
 
 # Firmware
 
-You can find my copy of the keyboard mapping [here.](http://github.com/climent/qmk_firmware/keyboards/atreyu/)
+You can find my copy of the keyboard mapping [here.](http://github.com/climent/qmk_firmware/tree/master/keyboards/atreyu/)
 
 I will eventually do a merge request in upstream QMK.
