@@ -19,7 +19,7 @@ Because it looks a lot like the Atreis keyboard, but with the Lily58 layout.
 
 ## How do I build one ?
 
-I'm planning on designing a PCB for it, but first I have to learn how to use KICad, so for now you can download the SVG and get it cut from Ponoko.com or a similar place.
+I'm [designing a PCB](http://github.com/climent/atreyu-pcb) for it, but it will take some time as I have to learn how to use KICad, so for now you can download the SVG and get it cut from Ponoko.com or a similar place.
 
 # Firmware
 
