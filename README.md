@@ -19,7 +19,7 @@ Because it looks a lot like the Atreis keyboard, but with the Lily58 layout.
 
 ## How do I build one ?
 
-I'm [designing a PCB](http://github.com/climent/atreyu-pcb) for it, but it will take some time as I have to learn how to use KICad, so for now you can download the SVG and get it cut from Ponoko.com or a similar place. The wiring is quite straightforward: rows are independent, and columns are combined together across both sides (columns are connected from outside to inside). You can [check this picture](pictures/atreyu-wired.jpg?raw=true "The wires").
+You can find a [PCB](http://github.com/climent/atreyu/tree/main/pcb) for it, but it is still untested, so for now you can download the SVG and get it cut from Ponoko.com or a similar place. The wiring is quite straightforward: all rows are independent, and columns are combined together across both sides (columns are connected from outside to inside). You can [check this picture](pictures/atreyu-wired.jpg?raw=true "The wires").
 
 # Firmware
 
