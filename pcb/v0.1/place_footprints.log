@@ -1,0 +1,14 @@
+02-20 10:02:31 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'darwin'
+02-20 10:02:31 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) \n[Clang 6.0 (clang-600.0.57)]'
+02-20 10:02:31 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.1-0)
+02-20 10:02:31 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.1
+02-20 10:02:31 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x7fcf9bee2b80>
+02-20 10:02:31 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+02-20 10:02:32 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 569:Reference designator is: D
+02-20 10:02:32 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 570:Reference number is: 15
+02-20 10:02:32 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 602:Sorted and filtered list:
+['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D9', 'D10', 'D11', 'D12', 'D13', 'D14', 'D15', 'D16', 'D17', 'D18', 'D19', 'D20', 'D21', 'D22', 'D23', 'D24', 'D25', 'D26', 'D27', 'D28', 'D29', 'D30', 'D31', 'D32', 'D33', 'D34', 'D35', 'D36', 'D37', 'D38', 'D39', 'D40', 'D41', 'D42', 'D43', 'D44', 'D45', 'D46', 'D47', 'D48', 'D49', 'D50', 'D51', 'D52', 'D53', 'D54', 'D55', 'D56', 'D57', 'D58']
+02-20 10:02:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 640:Footprints to place:
+['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D9', 'D10', 'D11', 'D12', 'D13', 'D14', 'D15', 'D16', 'D17', 'D18', 'D19', 'D20', 'D21', 'D22', 'D23', 'D24', 'D25', 'D26', 'D27', 'D28', 'D29', 'D30', 'D31', 'D32', 'D33', 'D34', 'D35', 'D36', 'D37', 'D38', 'D39', 'D40', 'D41', 'D42', 'D43', 'D44', 'D45', 'D46', 'D47', 'D48', 'D49', 'D50', 'D51', 'D52', 'D53', 'D54', 'D55', 'D56', 'D57', 'D58']
+02-20 10:02:41 com_github_MitjaNemec_PlaceFootprints.place_footprints 317:Starting placing with matrix layout
+02-20 10:02:41 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 717:Placing complete
