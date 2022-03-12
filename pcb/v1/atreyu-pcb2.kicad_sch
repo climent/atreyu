@@ -4366,7 +4366,7 @@
     (uuid f228d0b8-6193-4b01-bde8-b5aa48a06a4d)
     (property "Reference" "SW1" (id 0) (at 146.05 146.431 0))
     (property "Value" "SW_Push" (id 1) (at 146.05 148.7424 0))
-    (property "Footprint" "footprints:SW_Tactile_SPST_Angled_MJTP1117" (id 2) (at 146.05 148.59 0)
+    (property "Footprint" "footprints:SW_Tactile_SPST_Angled_MJTP1117_fixed" (id 2) (at 146.05 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 146.05 148.59 0)
@@ -4846,7 +4846,7 @@
       (reference "MX62") (unit 1) (value "MX-NoLED") (footprint "footprints:CherryMX_Hotswap")
     )
     (path "/f228d0b8-6193-4b01-bde8-b5aa48a06a4d"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "footprints:SW_Tactile_SPST_Angled_MJTP1117")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "footprints:SW_Tactile_SPST_Angled_MJTP1117_fixed")
     )
     (path "/726b4788-4eb6-41d6-b1fb-ac076eabdb2c"
       (reference "SW2") (unit 1) (value "RotaryEncoder_Switch") (footprint "footprints:RotaryEncoder_EC11")
