@@ -1,6 +1,6 @@
 # Atreyu keyboard
 
-![A picture of the Atreyu](pictures/top.png?raw=true "The Atreyu keyboard")
+![A picture of the Atreyu](pictures/keeb.png?raw=true "The Atreyu keyboard")
 
 Making a Lily58fied version of the Atreis keyboard.
 
