@@ -17,8 +17,12 @@ And because we can.
 
 Because it looks a lot like the Atreis keyboard, but with the Lily58 layout.
 
-# Firmware
+## Firmware
 
 You can find my copy of the keyboard mapping [here.](http://github.com/climent/qmk_firmware/tree/master/keyboards/atreyu/)
 
 I will eventually do a merge request in upstream QMK.
+
+## Contact
+
+A Telegram group is available [here](https://t.me/AtreyuKeeb).
