@@ -34,6 +34,6 @@ Sure. The SVG files are available. The wiring is quite straightforward: all rows
 
 You can find my copy of the keyboard mapping [here.](http://github.com/climent/qmk_firmware/tree/master/keyboards/atreyu/)
 
-There are 2 different revisions: handwired and rev1.
+There are 2 different revisions: handwired and rev1. The reason for rev1 is that I am already working on a rev2 PCB, with OLED support, and possibly Nice!Nano wireless option.
 
-I will eventually do a merge request in upstream QMK.
+A pull request from my firmware configuration was already merged into the main QMK tree, so you can get the firmware from QMK upstream.
