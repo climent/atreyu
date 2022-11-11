@@ -7,6 +7,19 @@ Making a Lily58fied version of the Atreis keyboard.
 Based on [Dekonnection's Atreis keyboard design files](https://github.com/dekonnection/atreis),
 modified to achieve the same layout in a single-piece form-factor.
 
+## What's new?
+
+Rev2 of the keyboard comes with new features:
+
+* New options for MCUs:
+  * Pro Micro: with this MCU the functionality of the keyboard is only reduced by not being able to use encoders.
+  * Elite-C, Elite-Pi, Puchi, Frood: all the functioinality, i.e., OLED, encoders, all keys.
+  * Nice!Nano v2: all functionality plus wireless!
+* OLED pins
+* Space for a battery, with power kill switch and pins for soldering the battery to the PCB
+
+The new Rev2 revision is not pin-compatible with Rev1.
+
 ## Why ?
 
 Because the Atreis is the most convenient keyboard to take when on the go, but I need a couple of extra keys, like the Lily58.
