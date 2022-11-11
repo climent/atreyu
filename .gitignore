@@ -29,3 +29,5 @@ fp-info-cache
 *.csv
 
 *backups/*.zip
+
+.DS_Store
