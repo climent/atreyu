@@ -1,3 +1,6 @@
 [submodule "pcb/v2/nicenano"]
 	path = pcb/v2/nicenano
 	url = https://github.com/bstiq/nice-nano-kicad.git
+[submodule "libraries/keebio-components"]
+	path = libraries/keebio-components
+	url = https://github.com/keebio/keebio-components.git
