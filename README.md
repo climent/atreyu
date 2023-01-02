@@ -2,6 +2,7 @@
 
 ![A picture of the original, handwired Atreyu](pictures/PXL_20210609_174723137.jpg?raw=true "The original, handwired Atreyu keyboard")
 ![A picture of the Atreyu (v1)](pcb/v1/pictures/keeb.jpg?raw=true "The Atreyu v1 keyboard")
+![A picture of the Atreyu v2 Choc](pictures/atreyu-v2-choc.jpg?raw=true "The Atreyu v2 Choc keyboard")
 
 It all started with a handwired Lily58fied version of the Atreis keyboard.
 
