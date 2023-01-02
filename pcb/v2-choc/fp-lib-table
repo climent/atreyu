@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
+  (lib (name "nicenano")(type "KiCad")(uri "${KIPRJMOD}/nicenano")(options "")(descr ""))
+)
