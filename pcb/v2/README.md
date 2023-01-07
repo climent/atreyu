@@ -1,6 +1,6 @@
 # Atreyu keyboard
 
-![A picture of the Atreyu](pictures/top.png?raw=true "The Atreyu keyboard")
+![A picture of the Atreyu V2 keyboard with MX switches and spacing](pictures/keep.jpg?raw=true "The Atreyu V2 keyboard")
 
 Making a Lily58fied version of the Atreis keyboard.
 
