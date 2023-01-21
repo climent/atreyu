@@ -3,6 +3,7 @@
 ![A picture of the original, handwired Atreyu](pictures/PXL_20210609_174723137.jpg?raw=true "The original, handwired Atreyu keyboard")
 ![A picture of the Atreyu (v1)](pcb/v1/pictures/keeb.jpg?raw=true "The Atreyu v1 keyboard")
 ![A picture of the Atreyu v2 Choc](pictures/atreyu-v2-choc.jpg?raw=true "The Atreyu v2 Choc keyboard")
+![A picture of the Atreyu v2 MX](pictures/atreyu-v2.jpg?raw=true "The Atreyu v2 Choc keyboard")
 
 It all started with a handwired Lily58fied version of the Atreis keyboard.
 
@@ -25,7 +26,7 @@ Because it looks a lot like the Atreis keyboard, but with the Lily58 layout.
 
 ## How do I build one ?
 
-You can find a [PCB](http://github.com/climent/atreyu/tree/main/pcb) for it. The board has been fully tested and the firmware is functional out of the box.
+You can find a [PCB](http://github.com/climent/atreyu/tree/main/pcb) for it. The board has been fully tested and the firmware is functional out of the box. A build guide is under construction.
 
 ## Can I do the handwired version?
 
