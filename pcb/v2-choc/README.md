@@ -1,6 +1,6 @@
 # Atreyu V2 choc keyboard
 
-![A picture of the Atreyu V2 choc](../../pictures/atreyu-v2-choc.png?raw=true "The Atreyu keyboard")
+![A picture of the Atreyu V2 choc](../../pictures/atreyu-v2-choc.jpg?raw=true "The Atreyu keyboard")
 
 # Changes from V1
 
