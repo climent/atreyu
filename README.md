@@ -30,7 +30,7 @@ You can find a [PCB](http://github.com/climent/atreyu/tree/main/pcb) for it. The
 
 ## Can I do the handwired version?
 
-Sure. The SVG files are available. The wiring is quite straightforward: all rows are independent, and columns are combined together across both sides (columns are connected from outside to inside). You can [check this picture](pictures/atreyu-wired.jpg?raw=true "The wires"). You just have to flash the right firmware with the right keymap, all of which are available from the link below.
+Sure thing! The SVG files are [available](pcb/handwired/). The wiring is quite straightforward: all rows are independent, and columns are combined together across both sides (columns are connected from outside to inside). You can [check this picture](pictures/atreyu-wired.jpg?raw=true "The wires"). You just have to flash the right firmware with the right keymap, all of which are available from the link below.
 
 # Firmware
 
